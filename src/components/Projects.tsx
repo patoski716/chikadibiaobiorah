@@ -17,7 +17,7 @@ const Projects = () => {
       description:
         "Picsible is a Nigerian startup that provides a technology-driven platform for framing photos, allowing customers to order custom picture frames online or in their studio. The company combines a user-friendly website for photo framing with a physical studio in Lagos, aiming to help people preserve memories. It offers online ordering for delivery within Nigeria and emphasizes the quality of its frames, which feature durable acrylic glass. ",
       // tech: ["Next Js", "Typescript", "Tailwindcss", "Material UI", "Redux"],
-      image: "/Assets/Leptons.png",
+      image: "/Assets/Picsible.png",
       link: "https://www.picsible.com/",
       reverse: true,
     },
