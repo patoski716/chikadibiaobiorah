@@ -38,25 +38,25 @@ const Projects = () => {
       image: "/Assets/khemshield.png",
       link: "https://www.khemshield.com/",
       reverse: true,
-    },
-    {
-      name: "Fixam",
-      description:
-        "Fixam Africa is a one-stop eCommerce marketplace for building materials and electronics, providing a seamless shopping experience for individuals and businesses. The platform connects buyers with trusted suppliers, offering a wide range of high-quality products, from construction essentials to the latest electronic devices. With an intuitive interface, secure payment options, and reliable delivery services, Fixam Africa simplifies procurement, ensuring convenience and efficiency for customers across the region.",
-      // tech: ["Next Js", "Typescript", "Tailwindcss", "Material UI", "Redux"],
-      image: "/Assets/fixam.png",
-      link: "https://fixam-client-dev-lmlot.ondigitalocean.app/",
-      reverse: false,
-    },
-    {
-      name: "Powerkit",
-      description:
-        "PowerKit is your all-in-one solution for managing everyday transactions effortlessly. From mobile recharges and data purchases to travel bookings and utility payments, PowerKit streamlines your digital experience. Whether you need to buy airtime, pay electricity bills, subscribe to cable TV, send bulk SMS, or book tickets for events and travel, PowerKit offers a seamless and secure platform. With additional services like e-SIM activation and exam registration (JAMB & WAEC), PowerKit ensures convenience at your fingertips.",
-      // tech: ["Next Js", "Typescript", "Tailwindcss", "Material UI", "Redux"],
-      image: "/Assets/powerkit.png",
-      link: "https://powerkit.ng/",
-      reverse: true,
-    },
+     }
+    // {
+    //   name: "Fixam",
+    //   description:
+    //     "Fixam Africa is a one-stop eCommerce marketplace for building materials and electronics, providing a seamless shopping experience for individuals and businesses. The platform connects buyers with trusted suppliers, offering a wide range of high-quality products, from construction essentials to the latest electronic devices. With an intuitive interface, secure payment options, and reliable delivery services, Fixam Africa simplifies procurement, ensuring convenience and efficiency for customers across the region.",
+    //   // tech: ["Next Js", "Typescript", "Tailwindcss", "Material UI", "Redux"],
+    //   image: "/Assets/fixam.png",
+    //   link: "https://fixam-client-dev-lmlot.ondigitalocean.app/",
+    //   reverse: false,
+    // },
+    // {
+    //   name: "Powerkit",
+    //   description:
+    //     "PowerKit is your all-in-one solution for managing everyday transactions effortlessly. From mobile recharges and data purchases to travel bookings and utility payments, PowerKit streamlines your digital experience. Whether you need to buy airtime, pay electricity bills, subscribe to cable TV, send bulk SMS, or book tickets for events and travel, PowerKit offers a seamless and secure platform. With additional services like e-SIM activation and exam registration (JAMB & WAEC), PowerKit ensures convenience at your fingertips.",
+    //   // tech: ["Next Js", "Typescript", "Tailwindcss", "Material UI", "Redux"],
+    //   image: "/Assets/powerkit.png",
+    //   link: "https://powerkit.ng/",
+    //   reverse: true,
+    // },
   ];
 
   return (
